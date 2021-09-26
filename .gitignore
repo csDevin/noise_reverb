@@ -2,4 +2,7 @@ kaldi-noise-cfg-filtered/
 *.wav
 *.zip
 *.rar
-
+*.pyc
+*.tar.gz
+*.mp3
+*.gsm
