@@ -1,0 +1,6 @@
+RoomInfo: ./room-info-real-small
+RirInfo: ./rir-info-real-small
+NoiseInfo: ./noise-info
+SnrInfo: -5 5
+RirRatio: 1
+NoiseRatio: 1

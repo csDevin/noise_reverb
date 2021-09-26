@@ -1,0 +1,14 @@
+00 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/road-noise/02_16.wav
+01 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/road-noise/03_16.wav
+02 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/road-noise/04_16.wav
+03 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/road-noise/05_16.wav
+04 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/babble.wav
+05 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/white.wav
+06 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/car-noise/buick.wav
+07 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/car-noise/car_noise_16k_left.wav
+08 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/car-noise/car_noise_16k_right.wav
+09 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/car-noise/closeWin1.wav
+10 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/car-noise/closeWin3.wav
+11 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/car-noise/openWin1.wav
+12 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/car-noise/openWin2.wav
+13 point-source background free ./kaldi-noise-cfg-filtered/noise-rir/car-noise/openWin3.wav
